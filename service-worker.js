@@ -4,8 +4,9 @@ self.addEventListener('install', (event) => {
       return cache.addAll([
         '/',
         '/index.html',
-        '/js/app.js',
-        // Add other static assets here
+        '/app.js',
+        '/icon 2.png',
+        'al-icon.png'
       ]);
     })
   );
