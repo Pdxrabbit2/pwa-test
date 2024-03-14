@@ -6,7 +6,7 @@ self.addEventListener('install', (event) => {
         '/index.html',
         '/app.js',
         '/icon 2.png',
-        'al-icon.png'
+        '/al-icon.png'
       ]);
     })
   );
