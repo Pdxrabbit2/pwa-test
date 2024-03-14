@@ -7,8 +7,14 @@
   "theme_color": "#e74c3c",
   "icons": [
     {
+    
       "src": "al-icon.png",
       "sizes": "24x24",
+      "type": "image/png"
+    },
+    {
+      "src": "icon 2.png",
+      "sizes": "1024x1024",
       "type": "image/png"
     }
   ]
