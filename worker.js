@@ -1,8 +1,8 @@
 const staticDevCoffee = "uwu"
 const assets = [
-  "/",
-  "/index.html",
-  "/app.js",
+  "/pwa-test/",
+  "/pwa-test/index.html",
+  "/pwa-test/app.js",
   "https://www.freecodecamp.org/news/content/images/size/w60/2020/01/circle-cropped.png"
 ]
 self.addEventListener("install", installEvent => {

@@ -1,12 +1,12 @@
 {
     "name": "PDXMelon's pwa",
     "short_name": "uwu",
-    "start_url": "index.html",
+    "start_url": "/pwa-test/index.html",
     "display": "standalone",
     "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "icon 2.png",
+      "src": "pwa-test/icon 2.png",
       "sizes": "1024x1024",
       "type": "image/png"
     }
