@@ -1,17 +1,10 @@
 {
-  "name": "My PWA",
-  "short_name": "PWA",
-  "start_url": "/index.html",
-  "display": "minimal-ui",
-  "background_color": "#fdfdfd",
-  "theme_color": "#e74c3c",
+    "name": "PDXMelon's pwa",
+    "short_name": "uwu",
+    "start_url": "index.html",
+    "display": "standalone",
+    "orientation": "portrait-primary",
   "icons": [
-    {
-    
-      "src": "al-icon.png",
-      "sizes": "24x24",
-      "type": "image/png"
-    },
     {
       "src": "icon 2.png",
       "sizes": "1024x1024",
