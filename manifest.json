@@ -1,0 +1,15 @@
+{
+  "name": "My PWA",
+  "short_name": "PWA",
+  "start_url": "/index.html",
+  "display": "minimal-ui",
+  "background_color": "#fdfdfd",
+  "theme_color": "#e74c3c",
+  "icons": [
+    {
+      "src": "al-icon.png",
+      "sizes": "24x24",
+      "type": "image/png"
+    }
+  ]
+}
